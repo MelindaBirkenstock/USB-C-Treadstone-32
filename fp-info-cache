@@ -1,4 +1,4 @@
-19011834775193579
+19013447869935060
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -76291,6 +76291,13 @@ Alps rotary encoder, EC12E..., vertical shaft, mounting holes with circular dril
 rotary encoder
 0
 5
+4
+SR05
+Semtech-SOT-143-0-0-MFG
+
+
+0
+4
 4
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm

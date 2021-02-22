@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name kbd)(type KiCad)(uri ${KIPRJMOD}/kbd)(options "")(descr ""))
   (lib (name typec)(type KiCad)(uri C:/Users/melin/OneDrive/Desktop/Type-C.pretty-master)(options "")(descr ""))
+  (lib (name SR05)(type KiCad)(uri "G:/PCB Parts/SR05/eec.pretty")(options "")(descr ""))
 )

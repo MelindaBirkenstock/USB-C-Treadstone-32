@@ -23,7 +23,7 @@ U 1 1 5B9C1730
 P 1250 1150
 F 0 "SW2" H 1250 1395 50  0000 C CNN
 F 1 "SW_PUSH" H 1250 1300 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 1250 1150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 1250 1150 50  0001 C CNN
 F 3 "" H 1250 1150 50  0000 C CNN
 	1    1250 1150
 	1    0    0    -1  
@@ -51,7 +51,7 @@ U 1 1 5B9EE7A9
 P 2100 1150
 F 0 "SW3" H 2100 1405 50  0000 C CNN
 F 1 "SW_PUSH" H 2100 1314 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 2100 1150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2100 1150 50  0001 C CNN
 F 3 "" H 2100 1150 50  0000 C CNN
 	1    2100 1150
 	1    0    0    -1  
@@ -81,7 +81,7 @@ U 1 1 5B9F04A1
 P 2950 1150
 F 0 "SW4" H 2950 1405 50  0000 C CNN
 F 1 "SW_PUSH" H 2950 1314 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 2950 1150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2950 1150 50  0001 C CNN
 F 3 "" H 2950 1150 50  0000 C CNN
 	1    2950 1150
 	1    0    0    -1  
@@ -111,7 +111,7 @@ U 1 1 5B9F232E
 P 3800 1150
 F 0 "SW5" H 3800 1405 50  0000 C CNN
 F 1 "SW_PUSH" H 3800 1314 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 3800 1150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3800 1150 50  0001 C CNN
 F 3 "" H 3800 1150 50  0000 C CNN
 	1    3800 1150
 	1    0    0    -1  
@@ -140,7 +140,7 @@ U 1 1 5B9F47E0
 P 4650 1150
 F 0 "SW6" H 4650 1405 50  0000 C CNN
 F 1 "SW_PUSH" H 4650 1314 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 4650 1150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4650 1150 50  0001 C CNN
 F 3 "" H 4650 1150 50  0000 C CNN
 	1    4650 1150
 	1    0    0    -1  
@@ -181,7 +181,7 @@ U 1 1 5B9F8C02
 P 2100 1850
 F 0 "SW13" H 2100 2105 50  0000 C CNN
 F 1 "SW_PUSH" H 2100 2014 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 2100 1850 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2100 1850 50  0001 C CNN
 F 3 "" H 2100 1850 50  0000 C CNN
 	1    2100 1850
 	1    0    0    -1  
@@ -207,7 +207,7 @@ U 1 1 5B9F8C15
 P 2950 1850
 F 0 "SW14" H 2950 2105 50  0000 C CNN
 F 1 "SW_PUSH" H 2950 2014 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 2950 1850 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2950 1850 50  0001 C CNN
 F 3 "" H 2950 1850 50  0000 C CNN
 	1    2950 1850
 	1    0    0    -1  
@@ -233,7 +233,7 @@ U 1 1 5B9F8C28
 P 3800 1850
 F 0 "SW15" H 3800 2105 50  0000 C CNN
 F 1 "SW_PUSH" H 3800 2014 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 3800 1850 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3800 1850 50  0001 C CNN
 F 3 "" H 3800 1850 50  0000 C CNN
 	1    3800 1850
 	1    0    0    -1  
@@ -258,7 +258,7 @@ U 1 1 5B9F8C3B
 P 4650 1850
 F 0 "SW16" H 4650 2105 50  0000 C CNN
 F 1 "SW_PUSH" H 4650 2014 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 4650 1850 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4650 1850 50  0001 C CNN
 F 3 "" H 4650 1850 50  0000 C CNN
 	1    4650 1850
 	1    0    0    -1  
@@ -293,7 +293,7 @@ U 1 1 5B9FB768
 P 1250 2550
 F 0 "SW22" H 1250 2805 50  0000 C CNN
 F 1 "SW_PUSH" H 1250 2714 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 1250 2550 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 1250 2550 50  0001 C CNN
 F 3 "" H 1250 2550 50  0000 C CNN
 	1    1250 2550
 	1    0    0    -1  
@@ -318,7 +318,7 @@ U 1 1 5B9FB77B
 P 2100 2550
 F 0 "SW23" H 2100 2805 50  0000 C CNN
 F 1 "SW_PUSH" H 2100 2714 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 2100 2550 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2100 2550 50  0001 C CNN
 F 3 "" H 2100 2550 50  0000 C CNN
 	1    2100 2550
 	1    0    0    -1  
@@ -343,7 +343,7 @@ U 1 1 5B9FB78E
 P 2950 2550
 F 0 "SW24" H 2950 2805 50  0000 C CNN
 F 1 "SW_PUSH" H 2950 2714 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 2950 2550 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2950 2550 50  0001 C CNN
 F 3 "" H 2950 2550 50  0000 C CNN
 	1    2950 2550
 	1    0    0    -1  
@@ -368,7 +368,7 @@ U 1 1 5B9FB7A1
 P 3800 2550
 F 0 "SW25" H 3800 2805 50  0000 C CNN
 F 1 "SW_PUSH" H 3800 2714 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 3800 2550 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3800 2550 50  0001 C CNN
 F 3 "" H 3800 2550 50  0000 C CNN
 	1    3800 2550
 	1    0    0    -1  
@@ -392,7 +392,7 @@ U 1 1 5B9FB7B4
 P 4650 2550
 F 0 "SW26" H 4650 2805 50  0000 C CNN
 F 1 "SW_PUSH" H 4650 2714 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 4650 2550 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4650 2550 50  0001 C CNN
 F 3 "" H 4650 2550 50  0000 C CNN
 	1    4650 2550
 	1    0    0    -1  
@@ -443,7 +443,7 @@ U 1 1 5BD46557
 P 5620 1150
 F 0 "SW7" H 5620 1405 50  0000 C CNN
 F 1 "SW_PUSH" H 5620 1314 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 5620 1150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5620 1150 50  0001 C CNN
 F 3 "" H 5620 1150 50  0000 C CNN
 	1    5620 1150
 	1    0    0    -1  
@@ -471,7 +471,7 @@ U 1 1 5BD4656A
 P 6470 1150
 F 0 "SW8" H 6470 1405 50  0000 C CNN
 F 1 "SW_PUSH" H 6470 1314 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 6470 1150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6470 1150 50  0001 C CNN
 F 3 "" H 6470 1150 50  0000 C CNN
 	1    6470 1150
 	1    0    0    -1  
@@ -501,7 +501,7 @@ U 1 1 5BD4657D
 P 7320 1150
 F 0 "SW9" H 7320 1405 50  0000 C CNN
 F 1 "SW_PUSH" H 7320 1314 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 7320 1150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7320 1150 50  0001 C CNN
 F 3 "" H 7320 1150 50  0000 C CNN
 	1    7320 1150
 	1    0    0    -1  
@@ -531,7 +531,7 @@ U 1 1 5BD46590
 P 8170 1150
 F 0 "SW10" H 8170 1405 50  0000 C CNN
 F 1 "SW_PUSH" H 8170 1314 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 8170 1150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 8170 1150 50  0001 C CNN
 F 3 "" H 8170 1150 50  0000 C CNN
 	1    8170 1150
 	1    0    0    -1  
@@ -560,7 +560,7 @@ U 1 1 5BD465A2
 P 9020 1150
 F 0 "SW11" H 9020 1405 50  0000 C CNN
 F 1 "SW_PUSH" H 9020 1314 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 9020 1150 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 9020 1150 50  0001 C CNN
 F 3 "" H 9020 1150 50  0000 C CNN
 	1    9020 1150
 	1    0    0    -1  
@@ -587,7 +587,7 @@ U 1 1 5BD465B4
 P 5620 1850
 F 0 "SW17" H 5620 2105 50  0000 C CNN
 F 1 "SW_PUSH" H 5620 2014 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 5620 1850 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5620 1850 50  0001 C CNN
 F 3 "" H 5620 1850 50  0000 C CNN
 	1    5620 1850
 	1    0    0    -1  
@@ -611,7 +611,7 @@ U 1 1 5BD465C5
 P 6470 1850
 F 0 "SW18" H 6470 2105 50  0000 C CNN
 F 1 "SW_PUSH" H 6470 2014 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 6470 1850 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6470 1850 50  0001 C CNN
 F 3 "" H 6470 1850 50  0000 C CNN
 	1    6470 1850
 	1    0    0    -1  
@@ -637,7 +637,7 @@ U 1 1 5BD465D6
 P 7320 1850
 F 0 "SW19" H 7320 2105 50  0000 C CNN
 F 1 "SW_PUSH" H 7320 2014 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 7320 1850 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7320 1850 50  0001 C CNN
 F 3 "" H 7320 1850 50  0000 C CNN
 	1    7320 1850
 	1    0    0    -1  
@@ -663,7 +663,7 @@ U 1 1 5BD465E7
 P 8170 1850
 F 0 "SW20" H 8170 2105 50  0000 C CNN
 F 1 "SW_PUSH" H 8170 2014 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 8170 1850 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 8170 1850 50  0001 C CNN
 F 3 "" H 8170 1850 50  0000 C CNN
 	1    8170 1850
 	1    0    0    -1  
@@ -688,7 +688,7 @@ U 1 1 5BD465F7
 P 9020 1850
 F 0 "SW21" H 9020 2105 50  0000 C CNN
 F 1 "SW_PUSH" H 9020 2014 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 9020 1850 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 9020 1850 50  0001 C CNN
 F 3 "" H 9020 1850 50  0000 C CNN
 	1    9020 1850
 	1    0    0    -1  
@@ -723,7 +723,7 @@ U 1 1 5BD4660D
 P 5620 2550
 F 0 "SW27" H 5620 2805 50  0000 C CNN
 F 1 "SW_PUSH" H 5620 2714 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 5620 2550 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5620 2550 50  0001 C CNN
 F 3 "" H 5620 2550 50  0000 C CNN
 	1    5620 2550
 	1    0    0    -1  
@@ -747,7 +747,7 @@ U 1 1 5BD4661E
 P 6470 2550
 F 0 "SW28" H 6470 2805 50  0000 C CNN
 F 1 "SW_PUSH" H 6470 2714 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 6470 2550 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6470 2550 50  0001 C CNN
 F 3 "" H 6470 2550 50  0000 C CNN
 	1    6470 2550
 	1    0    0    -1  
@@ -772,7 +772,7 @@ U 1 1 5BD4662F
 P 7320 2550
 F 0 "SW29" H 7320 2805 50  0000 C CNN
 F 1 "SW_PUSH" H 7320 2714 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 7320 2550 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 7320 2550 50  0001 C CNN
 F 3 "" H 7320 2550 50  0000 C CNN
 	1    7320 2550
 	1    0    0    -1  
@@ -797,7 +797,7 @@ U 1 1 5BD46640
 P 8170 2550
 F 0 "SW30" H 8170 2805 50  0000 C CNN
 F 1 "SW_PUSH" H 8170 2714 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 8170 2550 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 8170 2550 50  0001 C CNN
 F 3 "" H 8170 2550 50  0000 C CNN
 	1    8170 2550
 	1    0    0    -1  
@@ -821,7 +821,7 @@ U 1 1 5BD46650
 P 9020 2550
 F 0 "SW31" H 9020 2805 50  0000 C CNN
 F 1 "SW_PUSH" H 9020 2714 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 9020 2550 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 9020 2550 50  0001 C CNN
 F 3 "" H 9020 2550 50  0000 C CNN
 	1    9020 2550
 	1    0    0    -1  
@@ -869,7 +869,7 @@ U 1 1 5C06BEF4
 P 4650 3250
 F 0 "SW32" H 4650 3485 50  0000 C CNN
 F 1 "SW_PUSH" H 4645 3390 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 4650 3250 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4650 3250 50  0001 C CNN
 F 3 "" H 4650 3250 50  0000 C CNN
 	1    4650 3250
 	1    0    0    -1  
@@ -880,7 +880,7 @@ U 1 1 5C07E461
 P 5620 3250
 F 0 "SW33" H 5620 3480 50  0000 C CNN
 F 1 "SW_PUSH" H 5620 3395 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 5620 3250 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5620 3250 50  0001 C CNN
 F 3 "" H 5620 3250 50  0000 C CNN
 	1    5620 3250
 	1    0    0    -1  
@@ -891,7 +891,7 @@ U 1 1 5C0B28BE
 P 1250 1785
 F 0 "SW12" H 1250 1935 50  0000 C CNN
 F 1 "SW_PUSH" H 1250 1735 50  0000 C CNN
-F 2 "kbd:CherryMX_Hotswap_front" H 1250 1785 50  0001 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 1250 1785 50  0001 C CNN
 F 3 "" H 1250 1785 50  0000 C CNN
 	1    1250 1785
 	1    0    0    -1  
@@ -1424,7 +1424,7 @@ U 1 1 602912CC
 P 2950 4500
 F 0 "F1" V 2753 4500 50  0000 C CNN
 F 1 "500mA" V 2844 4500 50  0000 C CNN
-F 2 "Fuse:Fuse_0805_2012Metric" V 2880 4500 50  0001 C CNN
+F 2 "Fuse:Fuse_1206_3216Metric" V 2880 4500 50  0001 C CNN
 F 3 "~" H 2950 4500 50  0001 C CNN
 	1    2950 4500
 	0    1    1    0   
@@ -1465,7 +1465,6 @@ Wire Wire Line
 Connection ~ 2650 4500
 Wire Wire Line
 	2650 4500 2800 4500
-NoConn ~ 1250 5500
 Text GLabel -700 1550 2    50   Input ~ 0
 col4
 Text GLabel -700 1450 2    50   Input ~ 0
@@ -1496,4 +1495,81 @@ Text GLabel -700 2250 2    50   Input ~ 0
 col9
 Text GLabel -700 2950 2    50   Input ~ 0
 row3
+$Comp
+L SR05:SR05.TCT D33
+U 1 1 6030CCBC
+P 2350 5100
+F 0 "D33" H 2950 5465 50  0000 C CNN
+F 1 "SR05.TCT" H 2950 5374 50  0000 C CNN
+F 2 "SR05:Semtech-SOT-143-0-0-MFG" H 2350 5600 50  0001 L CNN
+F 3 "https://www.semtech.com/uploads/documents/sr05.pdf" H 2350 5700 50  0001 L CNN
+F 4 "No" H 2350 5800 50  0001 L CNN "automotive"
+F 5 "6V" H 2350 5900 50  0001 L CNN "breakdown voltage"
+F 6 "6pF" H 2350 6000 50  0001 L CNN "capacitance"
+F 7 "Diode" H 2350 6100 50  0001 L CNN "category"
+F 8 "20V" H 2350 6200 50  0001 L CNN "clamping voltage"
+F 9 "Circuit Protection" H 2350 6300 50  0001 L CNN "device class L1"
+F 10 "TVS Diodes" H 2350 6400 50  0001 L CNN "device class L2"
+F 11 "unset" H 2350 6500 50  0001 L CNN "device class L3"
+F 12 "TVS DIODE 5V 20V SOT143-4" H 2350 6600 50  0001 L CNN "digikey description"
+F 13 "SR05CT-ND" H 2350 6700 50  0001 L CNN "digikey part number"
+F 14 "Unidirectional" H 2350 6800 50  0001 L CNN "direction"
+F 15 "1.22mm" H 2350 6900 50  0001 L CNN "height"
+F 16 "Yes" H 2350 7000 50  0001 L CNN "lead free"
+F 17 "b04fbc2f1cdc6679" H 2350 7100 50  0001 L CNN "library id"
+F 18 "Semtech" H 2350 7200 50  0001 L CNN "manufacturer"
+F 19 "+125°C" H 2350 7300 50  0001 L CNN "max junction temp"
+F 20 "TVS Diodes / ESD Suppressors 300W DISCRETE SM" H 2350 7400 50  0001 L CNN "mouser description"
+F 21 "947-SR05.TCT" H 2350 7500 50  0001 L CNN "mouser part number"
+F 22 "2" H 2350 7600 50  0001 L CNN "number of channels"
+F 23 "SOT-143" H 2350 7700 50  0001 L CNN "package"
+F 24 "25A" H 2350 7800 50  0001 L CNN "peak pulse current"
+F 25 "500W" H 2350 7900 50  0001 L CNN "peak pulse power"
+F 26 "5V" H 2350 8000 50  0001 L CNN "reverse standoff voltage"
+F 27 "Yes" H 2350 8100 50  0001 L CNN "rohs"
+F 28 "0.013mm" H 2350 8200 50  0001 L CNN "standoff height"
+F 29 "+125°C" H 2350 8300 50  0001 L CNN "temperature range high"
+F 30 "-55°C" H 2350 8400 50  0001 L CNN "temperature range low"
+	1    2350 5100
+	1    0    0    -1  
+$EndComp
+Text GLabel 2450 5900 0    50   Input ~ 0
+D-
+Text GLabel 3450 5900 2    50   Input ~ 0
+D+
+Text GLabel 3450 5100 2    50   Input ~ 0
+VBUS
+$Comp
+L power:GND #PWR0101
+U 1 1 603126E4
+P 2450 5100
+F 0 "#PWR0101" H 2450 4850 50  0001 C CNN
+F 1 "GND" H 2455 4927 50  0000 C CNN
+F 2 "" H 2450 5100 50  0001 C CNN
+F 3 "" H 2450 5100 50  0001 C CNN
+	1    2450 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R7
+U 1 1 603170F9
+P 1250 5650
+F 0 "R7" H 1320 5696 50  0000 L CNN
+F 1 "1M" H 1320 5605 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" V 1180 5650 50  0001 C CNN
+F 3 "~" H 1250 5650 50  0001 C CNN
+	1    1250 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 60323ED6
+P 1250 5800
+F 0 "#PWR0102" H 1250 5550 50  0001 C CNN
+F 1 "GND" H 1255 5627 50  0000 C CNN
+F 2 "" H 1250 5800 50  0001 C CNN
+F 3 "" H 1250 5800 50  0001 C CNN
+	1    1250 5800
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

@@ -4,4 +4,5 @@
   (lib (name keyboard_parts)(type Legacy)(uri C:/Users/study/OneDrive/Documents/012_PCB/CommonLib/kicad_lib_tmk-master/keyboard_parts.lib)(options "")(descr ""))
   (lib (name Treadstone32-rescue)(type Legacy)(uri ${KIPRJMOD}/Treadstone32-rescue.lib)(options "")(descr ""))
   (lib (name typec)(type Legacy)(uri C:/Users/melin/OneDrive/Desktop/Type-C.pretty-master/Type-C.lib)(options "")(descr ""))
+  (lib (name SR05)(type Legacy)(uri "G:/PCB Parts/SR05/eec.lib")(options "")(descr ""))
 )

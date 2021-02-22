@@ -163,6 +163,92 @@ X PB1 9 600 1400 100 L 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
+# SR05_SR05.TCT
+#
+DEF SR05_SR05.TCT D 0 40 Y Y 1 L N
+F0 "D" 0 300 50 H V L CNN
+F1 "SR05_SR05.TCT" 0 400 50 H V L CNN
+F2 "Semtech-SOT-143-0-0-*" 0 500 50 H I L CNN
+F3 "https://www.semtech.com/uploads/documents/sr05.pdf" 0 600 50 H I L CNN
+F4 "No" 0 700 50 H I L CNN "automotive"
+F5 "6V" 0 800 50 H I L CNN "breakdown voltage"
+F6 "6pF" 0 900 50 H I L CNN "capacitance"
+F7 "Diode" 0 1000 50 H I L CNN "category"
+F8 "20V" 0 1100 50 H I L CNN "clamping voltage"
+F9 "Circuit Protection" 0 1200 50 H I L CNN "device class L1"
+F10 "TVS Diodes" 0 1300 50 H I L CNN "device class L2"
+F11 "unset" 0 1400 50 H I L CNN "device class L3"
+F12 "TVS DIODE 5V 20V SOT143-4" 0 1500 50 H I L CNN "digikey description"
+F13 "SR05CT-ND" 0 1600 50 H I L CNN "digikey part number"
+F14 "Unidirectional" 0 1700 50 H I L CNN "direction"
+F15 "1.22mm" 0 1800 50 H I L CNN "height"
+F16 "Yes" 0 1900 50 H I L CNN "lead free"
+F17 "b04fbc2f1cdc6679" 0 2000 50 H I L CNN "library id"
+F18 "Semtech" 0 2100 50 H I L CNN "manufacturer"
+F19 "+125°C" 0 2200 50 H I L CNN "max junction temp"
+F20 "TVS Diodes / ESD Suppressors 300W DISCRETE SM" 0 2300 50 H I L CNN "mouser description"
+F21 "947-SR05.TCT" 0 2400 50 H I L CNN "mouser part number"
+F22 "2" 0 2500 50 H I L CNN "number of channels"
+F23 "SOT-143" 0 2600 50 H I L CNN "package"
+F24 "25A" 0 2700 50 H I L CNN "peak pulse current"
+F25 "500W" 0 2800 50 H I L CNN "peak pulse power"
+F26 "5V" 0 2900 50 H I L CNN "reverse standoff voltage"
+F27 "Yes" 0 3000 50 H I L CNN "rohs"
+F28 "0.013mm" 0 3100 50 H I L CNN "standoff height"
+F29 "+125°C" 0 3200 50 H I L CNN "temperature range high"
+F30 "-55°C" 0 3300 50 H I L CNN "temperature range low"
+DRAW
+C 300 -300 20 1 1 0 N
+C 300 0 20 1 1 0 N
+C 570 -300 20 1 1 0 N
+C 630 -600 20 1 1 0 N
+C 900 -300 20 1 1 0 N
+C 900 0 20 1 1 0 N
+S 200 200 1000 -900 1 1 0 f
+P 2 1 1 0 200 0 500 0 N
+P 2 1 1 0 300 -600 400 -600 N
+P 2 1 1 0 300 -300 400 -300 N
+P 2 1 1 0 300 0 300 -600 N
+P 2 1 1 0 400 -700 500 -600 N
+P 2 1 1 0 400 -500 400 -700 N
+P 2 1 1 0 400 -400 500 -300 N
+P 2 1 1 0 400 -200 400 -400 N
+P 2 1 1 0 500 -600 400 -500 N
+P 2 1 1 0 500 -600 700 -600 N
+P 2 1 1 0 500 -500 500 -700 N
+P 2 1 1 0 500 -300 400 -200 N
+P 2 1 1 0 500 -300 700 -300 N
+P 2 1 1 0 500 -200 500 -400 N
+P 2 1 1 0 500 -100 700 0 N
+P 2 1 1 0 500 100 500 -100 N
+P 2 1 1 0 560 -800 200 -800 N
+P 2 1 1 0 570 -300 570 -800 N
+P 2 1 1 0 630 -800 990 -800 N
+P 2 1 1 0 630 -600 630 -800 N
+P 2 1 1 0 700 -700 800 -600 N
+P 2 1 1 0 700 -500 700 -700 N
+P 2 1 1 0 700 -400 800 -300 N
+P 2 1 1 0 700 -200 700 -400 N
+P 2 1 1 0 700 -200 800 -300 N
+P 2 1 1 0 700 -100 730 -130 N
+P 2 1 1 0 700 0 500 100 N
+P 2 1 1 0 700 0 1000 0 N
+P 2 1 1 0 700 100 670 130 N
+P 2 1 1 0 700 100 700 -100 N
+P 2 1 1 0 800 -600 700 -500 N
+P 2 1 1 0 800 -500 800 -700 N
+P 2 1 1 0 800 -300 900 -300 N
+P 2 1 1 0 800 -200 800 -400 N
+P 2 1 1 0 900 -600 800 -600 N
+P 2 1 1 0 900 -300 900 -600 N
+P 2 1 1 0 900 -300 900 0 N
+X ANODE 1 100 0 100 R 40 0 1 1 P
+X 1_I/O 2 100 -800 100 R 40 0 1 1 P
+X 2_I/O 3 1100 -800 100 L 40 0 1 1 P
+X CATHODE 4 1100 0 100 L 40 0 1 1 P
+ENDDRAW
+ENDDEF
+#
 # Switch_SW_DIP_x01
 #
 DEF Switch_SW_DIP_x01 SW 0 0 Y N 1 F N
